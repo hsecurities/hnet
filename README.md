@@ -22,7 +22,7 @@
 
 ## 📥 Download & Installation
 
-### 🪟 Windows (v10.2)
+### 🪟 Windows (v10.3)
 1.  Navigate to the **[Client Folder](/client)** above.
 2.  Download **`ShieldTerminal.exe`**.
 3.  Run the installer.

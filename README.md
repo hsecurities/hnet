@@ -22,13 +22,13 @@
 
 ## 📥 Download & Installation
 
-### 🪟 Windows (v10.7)
+### 🪟 Windows (v11.1)
 1.  Navigate to the **[Client Folder](/client)** above.
 2.  Download **`ShieldTerminal.exe`**.
 3.  Run the installer.
     *   *Note: If Windows Defender flags the file, this is a False Positive due to the compiled Python environment. Click "More Info" -> "Run Anyway".*
 
-### 🐧 Linux (v10.7)
+### 🐧 Linux (v11.1)
 1.  Navigate to the **[Client Folder](/client)** above.
 2.  Download **`shield_linux.deb`**.
 3.  Install via terminal:

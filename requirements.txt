@@ -2,4 +2,4 @@ requests
 pillow
 ecdsa
 plyer
-tk
+tk# v11.1

@@ -6,7 +6,7 @@
 
 **HNet (Shield Terminal)** is a sovereign, decentralized workstation designed for encrypted communication, blockchain mining, and financial freedom. This repository hosts the official binary distributions for Windows and Linux.
 
-![HNet Terminal Interface](assets/screenshot.png)
+![Shield Network Terminal Interface](assets/screenshot.png)
 
 ---
 
@@ -22,15 +22,9 @@
 
 ## 📥 Download & Installation
 
-### 🪟 Windows (v11.1)
-1.  Navigate to the **[Client Folder](/client)** above.
-2.  Download **`ShieldTerminal.exe`**.
-3.  Run the installer.
-    *   *Note: If Windows Defender flags the file, this is a False Positive due to the compiled Python environment. Click "More Info" -> "Run Anyway".*
-
 ### 🐧 Linux (v11.1)
-1.  Navigate to the **[Client Folder](/client)** above.
-2.  Download **`shield_linux.deb`**.
+1.  Navigate to the **[Updates Folder](https://github.com/hsecurities/hnet/releases/tag/Linux_11_2_0)** above.
+2.  Download **`shield_linux11.2.0.deb`**.
 3.  Install via terminal:
     ```bash
     sudo apt install ./shield_linux.deb
@@ -40,12 +34,12 @@
 
 ## 🌐 Live Network Status
 View the public ledger, block height, and active nodes at our explorer:
-👉 **[https://shield.hsecurities.in](https://shield.hsecurities.in)**
+👉 **[https://hnet.hsecurities.in](https://hnet.hsecurities.in)**
 
 ---
 
 ## ⚠️ Disclaimer
-*This software is provided "as is". The HNet ecosystem is a simulation of a decentralized network for educational and ethical testing purposes.*
+*This software is provided "as is". The HNet ecosystem is a standalone of a decentralized network for educational and ethical purposes.*
 
 ---
 **[HNET_SYSTEMS]** // *End of Transmission*

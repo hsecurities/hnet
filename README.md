@@ -6,7 +6,7 @@
 
 **HNet (Shield Terminal)** is a sovereign, decentralized workstation designed for encrypted communication, blockchain mining, and financial freedom. This repository hosts the official binary distributions for Windows and Linux.
 
-![Shield Network Terminal Interface](assets/screenshot.png)
+![Shield Network Terminal Interface](screenshot/screenshot.png)
 
 ---
 

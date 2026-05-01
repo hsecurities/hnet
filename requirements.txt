@@ -1,5 +1,0 @@
-requests
-pillow
-ecdsa
-plyer
-tk# v11.1

@@ -1,6 +1,6 @@
 # HNet // Shield Terminal Node 🛡️
 
-[![Version](https://img.shields.io/badge/version-10.2-green.svg)](https://github.com/hsecurities/hnet/tree/main/client)
+[![Version](https://img.shields.io/badge/version-11.2.0-green.svg)](https://github.com/hsecurities/hnet/tree/main/client)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-lightgrey.svg)]()
 [![Status](https://img.shields.io/badge/network-ONLINE-brightgreen.svg)](https://shield.hsecurities.in)
 

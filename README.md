@@ -27,7 +27,7 @@
 2.  Download **`shield_linux11.2.0.deb`**.
 3.  Install via terminal:
     ```bash
-    sudo apt install ./shield_linux.deb
+    sudo apt install ./shield-desktop-11-2-0.deb
     ```
 
 ---

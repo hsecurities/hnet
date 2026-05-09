@@ -22,9 +22,9 @@
 
 ## 📥 Download & Installation
 
-### 🐧 Linux (v11.1)
+### 🐧 Linux (v11.2.0)
 1.  Navigate to the **[Updates Folder](https://github.com/hsecurities/hnet/releases/tag/Linux_11_2_0)** above.
-2.  Download **`shield_linux11.2.0.deb`**.
+2.  Download **`shield-desktop-11-2-0.deb`**.
 3.  Install via terminal:
     ```bash
     sudo apt install ./shield-desktop-11-2-0.deb

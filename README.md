@@ -30,10 +30,6 @@
     sudo apt install ./shield-desktop-11-2-0.deb
     ```
 
----
-
-## 📥 Download & Installation
-
 ### Windows (v11.2.0)
 1.  Navigate to the **[Updates Folder](https://github.com/hsecurities/hnet/releases/tag/Windows)** above.
 2.  Download **`shield-desktop-11-2-0-setup.exe`**.

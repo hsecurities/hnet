@@ -32,7 +32,7 @@
 
 ### Windows (v11.2.0)
 1.  Navigate to the **[Updates Folder](https://github.com/hsecurities/hnet/releases/tag/Windows)** above.
-2.  Download **`shield-desktop-11-2-0-setup.exe`**.
+2.  Download **```shield-desktop-11-2-0-setup.exe```**.
 3.  Download and Install
 
 ---

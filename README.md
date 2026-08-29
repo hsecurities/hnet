@@ -24,12 +24,12 @@
 
 ## 📥 Download & Installation
 
-### 🐧 Linux (v11.2.0)
+### 🐧 Linux (v11.2.11)
 1.  Navigate to the **[Updates Folder](https://github.com/hsecurities/hnet/releases/tag/Linux)** above.
-2.  Download **`shield-network-11-2-9.deb`**.
+2.  Download **`shield-network-11-2-11.deb`**.
 3.  Install via terminal:
     ```bash
-    sudo apt install ./shield-network-11-2-9.deb
+    sudo apt install ./shield-network-11-2-11.deb
     ```
 
 ### Windows (v11.2.0)

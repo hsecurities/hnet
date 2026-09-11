@@ -24,7 +24,7 @@
 
 ## 📥 Download & Installation
 
-### 🐧 Linux (v11.2.11)
+### 🐧 Linux (v11.2.15)
 1.  Navigate to the **[Updates Folder](https://github.com/hsecurities/hnet/releases/tag/Linux)** above.
 2.  Download **`shield-network-11-2-11.deb`**.
 3.  Install via terminal:
@@ -32,7 +32,7 @@
     sudo apt install ./shield-network-11-2-11.deb
     ```
 
-### Windows (v11.2.0)
+### Windows (v11.2.15)
 1.  Navigate to the **[Updates Folder](https://github.com/hsecurities/hnet/releases/tag/Windows)** above.
 2.  Download **```shield-desktop-11-2-0-setup.exe```**.
 3.  Download and Install

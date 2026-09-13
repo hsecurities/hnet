@@ -5,6 +5,8 @@ HNet is a decentralized hacker network built for cybersecurity professionals, et
 Designed around privacy, resilience, and decentralization, HNet empowers users to communicate, build, share, and participate without relying on centralized platforms.
 
 ---
+![Shield Network Banner](https://raw.githubusercontent.com/hsecurities/hnet/refs/heads/main/assets/banner-shield-network.png)
+---
 
 # 🔥 Why HNet?
 

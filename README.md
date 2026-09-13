@@ -1,234 +1,105 @@
-# HNet // Decentralized Hacker Network 🛡️
+# 🌍 HNet – Decentralized Hacker Network & Cybersecurity Community
 
-![HNet Banner](https://github.com/hsecurities/hnet/raw/main/assets/banner.png)
+HNet is a decentralized hacker network built for cybersecurity professionals, ethical hackers, researchers, developers, privacy advocates, and digital freedom enthusiasts. The platform combines encrypted communication, peer-to-peer networking, decentralized identity, digital asset infrastructure, and community-driven collaboration into a single ecosystem.
 
-> A decentralized cyber network built for hackers, researchers, builders, privacy advocates, and digital freedom enthusiasts.
-
-HNet is a sovereign peer-to-peer ecosystem focused on secure communication, decentralized networking, digital asset ownership, and community-driven infrastructure. Designed for operators who value privacy, resilience, and independence from centralized platforms.
-
----
-
-# 🌐 Official Ecosystem
-
-### 🔹 HNet Network
-https://hnet.hsecurities.in
-
-### 🔹 Shield Coin
-Buy, store, and explore Shield Coin:
-
-https://shieldcoin.hsecurities.in
-
-### 🔹 BLACKMESH Network
-Decentralized peer-to-peer node network:
-
-https://github.com/hsecurities/blackmesh
-
----
-
-# ⚡ Core Features
-
-## 🔐 Encrypted Communications
-
-- End-to-end encrypted messaging
-- Decentralized peer discovery
-- Private operator channels
-- No centralized chat storage
-- Secure node-to-node communication
-
----
-
-## 🌍 Global Decentralized Network
-
-- Community-powered infrastructure
-- Distributed node architecture
-- Peer-to-peer connectivity
-- Global operator presence
-- Resilient networking without dependence on traditional platforms
-
----
-
-## 💰 Shield Wallet Integration
-
-Built directly into the ecosystem.
-
-### Features
-
-- Wallet creation
-- Wallet import/export
-- Secure asset storage
-- Instant transfers
-- Shield Coin support
-- Future ecosystem integrations
-
----
-
-## ⛏️ Network Contribution
-
-Participants help strengthen the ecosystem through active node participation and decentralized infrastructure support.
-
-Benefits include:
-
-- Network growth
-- Community reputation
-- Ecosystem rewards
-- Increased resilience
-
----
-
-## 📦 Secure Payload Exchange
-
-Transfer data directly between operators.
-
-Supported content:
-
-- Images
-- Documents
-- ZIP archives
-- Research files
-- Security resources
-
----
-
-## 👤 Sovereign Identity Layer
-
-Build your reputation across the network.
-
-Features:
-
-- Persistent operator identity
-- Reputation scoring
-- Community visibility
-- Decentralized profile system
-
----
-
-## 🛒 Decentralized Marketplace
-
-A peer-driven marketplace where operators can publish, discover, and exchange digital resources.
-
-Potential use cases:
-
-- Security tools
-- Educational resources
-- Research materials
-- Development services
-- Community projects
-
----
-
-## 🌑 Operator Interface
-
-Cyberpunk-inspired interface built for speed and efficiency.
-
-Includes:
-
-- Real-time node monitoring
-- Interactive network map
-- Terminal-inspired workflow
-- Dark operator theme
-- Lightweight performance
+Designed around privacy, resilience, and decentralization, HNet empowers users to communicate, build, share, and participate without relying on centralized platforms.
 
 ---
 
 # 🔥 Why HNet?
 
-Most platforms rely on centralized infrastructure.
+HNet is more than a communication platform.
 
-HNet was designed differently.
+It is a growing decentralized ecosystem focused on:
 
-- No centralized ownership of the network
-- Community-driven participation
-- Privacy-focused architecture
-- Decentralized communication
-- Sovereign digital identity
-- Open ecosystem development
+- Secure peer-to-peer networking
+- Encrypted communications
+- Decentralized digital identity
+- Blockchain-powered infrastructure
+- Community-driven development
+- Privacy-first architecture
+- Global hacker collaboration
+- Sovereign digital ownership
 
----
-
-# 📥 Installation
-
-## Linux
-
-Download the latest package from:
-
-https://github.com/hsecurities/hnet/releases/tag/Linux
-
-Install:
-
-```bash
-sudo apt install ./shield-network-11-2-15.deb
-```
+Whether you are a cybersecurity student, penetration tester, security researcher, developer, blockchain enthusiast, or privacy advocate, HNet provides an environment designed for the future of decentralized technology.
 
 ---
 
-## Windows
+# 🚀 Key Features
 
-Download:
+### 🔐 Encrypted Communication Network
+Secure peer-to-peer messaging infrastructure designed for private operator communications and decentralized networking.
 
-https://github.com/hsecurities/hnet/releases/tag/Windows
+### 🌐 Decentralized Global Infrastructure
+Community-operated nodes create a resilient network capable of operating independently of traditional centralized systems.
 
-Run:
+### 👤 Sovereign Digital Identity
+Build a persistent identity and reputation across the HNet ecosystem.
 
-```text
-shield-desktop-11-2-15-setup.exe
-```
+### 💰 Shield Coin Integration
+Native support for Shield Coin enables value transfer, ecosystem participation, and future decentralized marketplace functionality.
 
-Follow the installation wizard.
+### 📦 Secure File & Resource Exchange
+Exchange files, research materials, resources, and digital assets directly across the network.
 
----
+### 🛒 Decentralized Marketplace
+A community-powered marketplace where operators can publish services, resources, tools, and digital products.
 
-# 📊 Network Explorer
+### 🗺️ Real-Time Network Visualization
+Monitor active nodes, peer connections, network activity, and ecosystem growth through an interactive network map.
 
-Monitor the live ecosystem:
-
-https://hnet.hsecurities.in
-
-Explore:
-
-- Active nodes
-- Network activity
-- Wallet information
-- Ledger data
-- Community participation
+### ⚡ Lightweight Operator Interface
+Cyberpunk-inspired interface optimized for speed, accessibility, and low resource consumption.
 
 ---
 
-# 🪙 About Shield Coin
+# 🪙 Shield Coin Ecosystem
 
-Shield Coin powers the ecosystem.
+Shield Coin powers the HNet ecosystem and serves as the network's native digital asset.
 
-Use cases include:
-
-- Digital transfers
-- Ecosystem participation
-- Future marketplace integrations
-- Community-driven utility
-
-Learn more:
+### Explore Shield Coin
 
 https://shieldcoin.hsecurities.in
 
+Features include:
+
+- Digital asset ownership
+- Ecosystem utility
+- Wallet integration
+- Future marketplace payments
+- Decentralized value transfer
+
 ---
 
-# 🤝 Join The Network
+# 🌐 Live Network Explorer
 
-HNet is open to:
+Monitor network activity, active nodes, ecosystem growth, and blockchain statistics.
+
+https://hnet.hsecurities.in
+
+---
+
+# 👥 Join The Decentralized Hacker Network
+
+HNet welcomes:
 
 - Ethical Hackers
-- Security Researchers
+- Cybersecurity Researchers
 - Developers
-- Privacy Advocates
 - Open Source Contributors
+- Blockchain Builders
+- Privacy Advocates
+- Infrastructure Operators
 - Cybersecurity Students
-- Infrastructure Builders
+- Digital Freedom Supporters
 
-Whether you're exploring decentralized technology, building secure systems, or contributing to the future of digital freedom, there is a place for you inside the network.
+Contribute nodes, build tools, collaborate with operators, strengthen the network, and help shape the future of decentralized infrastructure.
 
 ---
 
-# 🔗 Useful Links
+# 🔗 Ecosystem Links
 
-### HNet Explorer
+### HNet Network
 https://hnet.hsecurities.in
 
 ### Shield Coin
@@ -244,16 +115,12 @@ https://github.com/hsecurities/blackmesh
 
 # ⚠️ Disclaimer
 
-HNet is provided for educational, research, networking, and community collaboration purposes.
-
-Users are responsible for complying with all applicable laws and regulations in their jurisdiction.
-
-The developers and contributors assume no liability for misuse of the software.
+HNet is provided on an "as is" basis without warranties of any kind. Users are solely responsible for their actions, compliance with applicable laws, and use of the software. Contributors, maintainers, and affiliated parties shall not be liable for any damages, losses, or claims arising from the use of this platform.
 
 ---
 
-## [ HNET_SYSTEMS ]
+## HNET_SYSTEMS
 
 ### DECENTRALIZED • ENCRYPTED • GLOBAL • BY THE PEOPLE
 
-*"Every Node Strengthens The Network."*
+**Every Node Strengthens The Network**
